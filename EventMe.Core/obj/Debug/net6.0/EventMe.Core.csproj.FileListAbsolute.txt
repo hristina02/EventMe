@@ -1,0 +1,15 @@
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\bin\Debug\net6.0\EventMe.Core.deps.json
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\bin\Debug\net6.0\EventMe.Core.dll
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\bin\Debug\net6.0\EventMe.Core.pdb
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\obj\Debug\net6.0\EventMe.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\obj\Debug\net6.0\EventMe.Core.AssemblyInfoInputs.cache
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\obj\Debug\net6.0\EventMe.Core.AssemblyInfo.cs
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\obj\Debug\net6.0\EventMe.Core.csproj.CoreCompileInputs.cache
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\obj\Debug\net6.0\EventMe.Core.dll
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\obj\Debug\net6.0\refint\EventMe.Core.dll
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\obj\Debug\net6.0\EventMe.Core.pdb
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\obj\Debug\net6.0\ref\EventMe.Core.dll
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\obj\Debug\net6.0\EventMe.Core.csproj.AssemblyReference.cache
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\bin\Debug\net6.0\EventMe.Infrastructure.dll
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\bin\Debug\net6.0\EventMe.Infrastructure.pdb
+C:\Users\hristina\source\repos\EventMe\EventMe.Core\obj\Debug\net6.0\EventMe.Core.csproj.CopyComplete

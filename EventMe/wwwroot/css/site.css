@@ -1,0 +1,28 @@
+html {
+    font-size: 14px;
+    background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+        background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+}
+
+body {
+    margin-bottom: 60px;
+   
+}
+
+
+.upper-section {
+    background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+} 
+
